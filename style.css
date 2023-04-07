@@ -3,3 +3,30 @@ body {
   height: 100%;
   margin: 0;
 }
+h1 { text-align: center;}
+nav {text-align : center}
+
+a {padding-right: 10px}
+a {padding-left: 10px}
+
+section#featured-property figure {text-align: center}
+
+figcaption {font-size: smaller}
+figcaption {text-align: center;}
+
+section#featured-property p {
+  text-align: center}
+
+section#featured-property p {width: 800px}
+
+section#featured-property p {margin : auto}
+section#featured-property {margin-bottom: 1rem}
+
+
+section#details div {background-color: red;}
+
+section#details div {float : left}
+section#details div {text-align: center;}
+section#details div {margin: auto}
+
+section#details div {width: 25%}
